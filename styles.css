@@ -1,0 +1,18 @@
+/* Estilos para el contenedor */
+#channels {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  margin: 20px auto;
+  background-color: #f0f0f0;
+}
+
+.channel {
+  width: 80%;
+  max-width: 600px;
+  padding: 20px;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  text-align: center;
+}
